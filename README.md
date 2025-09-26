@@ -1,7 +1,7 @@
 # etnoastronomia-aboboda-celeste
 # Abóbada Celeste: Planetário Tupi-Guarani de Baixo Custo
 
-![Foto do Protótipo](foto_prototipo.jpg)  Este repositório contém o código-fonte e os modelos 3D para a fabricação do "Abóbada Celeste", um planetário de baixo custo para a divulgação da etnoastronomia Tupi-Guarani.
+![Foto do Protótipo](protótipo.png)  Este repositório contém o código-fonte e os modelos 3D para a fabricação do "Abóbada Celeste", um planetário de baixo custo para a divulgação da etnoastronomia Tupi-Guarani.
 
 O projeto foi desenvolvido por Maximiliano Bevilaqua Esper como parte de seu Trabalho de Conclusão de Curso em Licenciatura em Física no IFCE.
 
